@@ -1,9 +1,9 @@
 # Break-Pieces-3D
 
-![](İmages/İmage1.png)
+![](images/İmage1.png)
 
 
-![](İmages/İmage2.png)
+![](images/İmage2.png)
 
 
-![](İmages/İmage3.png)
+![](images/İmage3.png)
